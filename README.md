@@ -1,2 +1,2 @@
 # Weather-Prediction-System
-Weather Prediction using Machine Learning algorithms.
+A Machine Learning-based system that recommends suitable outfits based on weather conditions using Python and Streamlit.
